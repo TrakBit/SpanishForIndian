@@ -28,7 +28,6 @@ export default function Post({ post, preview }: Props) {
       <Seo
         title={post.title}
         description={post.excerpt}
-        ogImage={post.ogImage.url}
       />
       <Layout preview={preview}>
         <Container>
