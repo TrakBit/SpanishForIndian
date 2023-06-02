@@ -22,4 +22,4 @@ You don't have to create a fixed time slot in your day to learn Spanish. You can
 Even though you can learn as much as you want within a day, Duolingo offers small incremental lessons. Hence even 5 minutes a day can allow you to finish one. This low-friction onboarding facilitates not giving up daily learning on a busy day. Also, don't assume that a small module here means sacrificing the learning experience. Despite small modules, it tests speaking, listening, and writing ability.
 
 ### Gamification with attainable goals
-Duolingo offers challenges like a daily streak that rewards you for doing at least one lesson daily. Such simple yet effective gamification forces daily learning but doesn't feel stressful to keep up.
+Duolingo offers challenges like a daily streak that rewards you for doing at least one lesson daily. Such simple yet effective gamification forces daily learning but doesn't feel stressful to keep up. Also, on certain days if you're in more aggressive learning mode, you can take extra challenges from Duolingo, which will help you jump up the rank in the leaderboard.
