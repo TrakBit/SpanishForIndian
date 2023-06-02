@@ -19,4 +19,4 @@ Duolingo is one fun tool to kick off your language learning. It offers many adva
 You don't have to create a fixed time slot in your day to learn Spanish. You can start learning in the least expected places. Be it in the toilet or public transport.
 
 ### Small modular lessons. 
-Even though you can learn as much as you want within a day, Duolingo offers small incremental lessons. Hence even 5 minutes a day can allow you to finish one.
+Even though you can learn as much as you want within a day, Duolingo offers small incremental lessons. Hence even 5 minutes a day can allow you to finish one. This low friction onboarding facilitates not giving up daily learning on a busy day.
