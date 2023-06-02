@@ -35,6 +35,10 @@ You can make an infinite number of mistakes as you learn Spanish. Duolingo has a
 
 ![Learning Mode](/assets/blog/duolingo-learn-spanish/mistakes.webp "learning mode")
 
+
+## Just start
 So if you are serious about learning Spanish, but don't know how to get started, start with Duolingo. Don't try to be proficient anytime soon, and enjoy the process of learning with Duolingo. You'll be pleasantly surprised how fun it makes learning a new language by giving you dopamine shots (gamification) in an ethical way. It's hard to believe the app is completely free to learn yet so deeply valuable.
+
+You can track **[my Spanish learning](https://www.duolingo.com/profile/HarshVardhhan)** as well 😊
 
 Vamos, amigos!
