@@ -1,4 +1,3 @@
-import Avatar from './avatar'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
@@ -16,7 +15,6 @@ const PostPreview = ({
   title,
   coverImage,
   excerpt,
-  author,
   slug,
 }: Props) => {
   return (
