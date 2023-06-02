@@ -5,7 +5,7 @@ import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
-import Seo from '../../components/seo'
+import Seo, {DOMAIN} from '../../components/seo'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import markdownToHtml from '../../lib/markdownToHtml'
@@ -26,6 +26,7 @@ export default function Post({ post, preview }: Props) {
       <Seo
         title={post.title}
         description={post.excerpt}
+        canonical={`${DOMAIN}${post.slug}`}
       />
       <Layout preview={preview}>
         <Container>

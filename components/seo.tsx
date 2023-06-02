@@ -1,7 +1,7 @@
 import Head from "next/head";
 
-const DOMAIN = "https://www.spanishforindian.com/";
-const DEFAULT_OG_IMAGE =
+export const DOMAIN = "https://www.spanishforindian.com/";
+export const DEFAULT_OG_IMAGE =
   "https://raw.githubusercontent.com/TrakBit/Images/master/cover.png";
 
 export default function Seo({
