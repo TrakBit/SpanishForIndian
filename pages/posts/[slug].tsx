@@ -37,10 +37,6 @@ export default function Post({ post, preview }: Props) {
           ) : (
             <>
               <article className="mb-32">
-                <Head>
-                  <title>{title}</title>
-                  <meta property={post.ogImage.url} content={post.ogImage.url} />
-                </Head>
                 <PostHeader
                   title={post.title}
                   coverImage={post.coverImage}
