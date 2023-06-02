@@ -1,5 +1,4 @@
 import Avatar from './avatar'
-import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
@@ -16,7 +15,6 @@ type Props = {
 const PostPreview = ({
   title,
   coverImage,
-  date,
   excerpt,
   author,
   slug,
@@ -35,11 +33,7 @@ const PostPreview = ({
           {title}
         </Link>
       </h3>
-      <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
-      </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
     </div>
   )
 }
