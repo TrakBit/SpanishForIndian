@@ -1,6 +1,6 @@
 ---
 title: 'Duolingo - best app to start learning Spanish'
-excerpt: 'Learning a new language is a complex journey. No matter how impressive it may sound to newbies to suddenly hear some exotic Spanish words. But the ability to speak comprehensive statements in a foreign language is tough.'
+excerpt: 'Learning a new language is a complex journey. The ability to speak comprehensive statements in a foreign language is tough.'
 coverImage: '/assets/blog/duolingo-learn-spanish/cover.webp'
 date: '2023-06-01T05:35:07.322Z'
 author:
