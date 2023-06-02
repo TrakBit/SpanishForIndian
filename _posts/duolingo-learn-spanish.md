@@ -10,5 +10,5 @@ ogImage:
   url: '/assets/blog/duolingo-learn-spanish/cover.webp'
 ---
 
-# Learning a new language is hard
+## Learning a new language is hard
 Learning a new language is a complex journey. No matter how impressive it may sounds to newbies to suddenly hear some exotic spanish words.
