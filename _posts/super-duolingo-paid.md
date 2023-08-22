@@ -2,7 +2,7 @@
 title: 'Super Duolingo - worth paying to learn Spanish?'
 excerpt: 'Its time for you to go deeper in learning Spanish, and Super duolingo is the way to go.'
 coverImage: '/assets/blog/super-duolingo-paid/cover.webp'
-date: '2023-06-01T05:35:07.322Z'
+date: '2023-08-22T05:35:07.322Z'
 author:
   name: 'Harsh Vardhan'
   picture: '/assets/blog/super-duolingo-paid/profile.webp'
