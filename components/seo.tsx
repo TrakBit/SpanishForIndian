@@ -2,7 +2,7 @@ import Head from "next/head";
 
 export const DOMAIN = "https://www.spanishforindian.com/";
 export const DEFAULT_OG_IMAGE =
-  "https://raw.githubusercontent.com/TrakBit/Images/master/cover.png";
+  "https://raw.githubusercontent.com/TrakBit/Images/master/cover.webp";
 
 export default function Seo({
   title = "Spanish for Indians",
@@ -44,20 +44,20 @@ export default function Seo({
         name="twitter:card"
         content="summary_large_image"
       />
-      <meta 
-        key="twitter:site" 
-        name="twitter:site" 
-        content={twitterHandle} 
+      <meta
+        key="twitter:site"
+        name="twitter:site"
+        content={twitterHandle}
       />
       <meta
         key="twitter:creator"
         name="twitter:creator"
         content={twitterHandle}
       />
-      <meta 
-        key="twitter:title" 
-        property="twitter:title" 
-        content={title} 
+      <meta
+        key="twitter:title"
+        property="twitter:title"
+        content={title}
       />
       <meta
         key="twitter:description"
